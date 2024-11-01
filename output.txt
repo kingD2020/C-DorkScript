@@ -1,0 +1,11 @@
+http://login.example.com/block,login.jsp
+https://www.w3.org/TR/html4/loose.dtd
+https://www.w3.org/TR/html4/strict.dtd
+https://www.w3.org/TR/HTML32.dtd
+https://public.websites.umich.edu/~pfs/code/sgml/doctypes.txt
+https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd
+http://www.w3.org/TR/WD-html40-970917/sgml/HTML4-strict.dtd
+https://www.w3.org/TR/xhtml-basic/xhtml-basic10.dtd
+https://raw.githubusercontent.com/w3c/design/master/templates/generic/index.html
+https://philip.html5.org/data/doctypes-lc.txt
+https://openliberty.io/guides/getting-started.html%20
