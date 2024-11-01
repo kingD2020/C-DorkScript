@@ -1,9 +1,11 @@
+#created by Cbhunter for Pen-Testers and Bug-hunters
+
 import sys
 import time
 import requests
 
-# Your SerpApi key
-API_KEY = "a206e89dadb0b3c6e75c9dd29e485c0ed3200d77e81c7f08dc83e84206eaf688"
+# Your SerpApi key, CREATE AN ACCOUNT AND API KEY
+API_KEY = ""
 
 # List of queries
 queries = [
